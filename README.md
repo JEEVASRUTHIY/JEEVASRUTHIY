@@ -57,7 +57,7 @@ Passionate Computer Science Engineer
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" title="Spring Boot"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
 <img src="https://cdn.simpleicons.org/figma" width="50" title="Figma"/>
-<img src="https://cdn.simpleicons.org/canva" width="50" title="Canva"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" title="Canva"/>
 <img src="https://cdn.simpleicons.org/cursor" width="50" title="Cursor"/>
 
 </p>
