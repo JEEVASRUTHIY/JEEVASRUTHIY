@@ -29,7 +29,7 @@ Passionate Computer Science Engineer
 
 </p>
 
--## 💻 Languages
+## 💻 Languages
 
 <p align="left">
 
@@ -45,22 +45,31 @@ Passionate Computer Science Engineer
 
 ---
 
-## 🧰 Tools & IDEs
+## 🧰 Tools & Technologies
 
 <p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin:10px;" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="margin:10px;" title="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" style="margin:10px;" title="VS Code"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" style="margin:10px;" title="React"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" style="margin:10px;" title="Spring Boot"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" style="margin:10px;" title="MySQL"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin:10px;" title="Git"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="margin:10px;" title="GitHub"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" style="margin:10px;" title="VS Code"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" style="margin:10px;" title="Eclipse"/>
+
 <img src="https://cdn.simpleicons.org/figma" width="40" style="margin:10px;" title="Figma"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" style="margin:10px;" title="Canva"/>
+
 <img src="https://cdn.simpleicons.org/cursor" width="40" style="margin:10px;" title="Cursor"/>
 
 </p>
----
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/JEEVASRUTHIY/JEEVASRUTHIY/main/output/github-contribution-grid-snake.svg"/>
