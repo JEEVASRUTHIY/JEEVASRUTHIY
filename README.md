@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jeevasruthi
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=JEEVASRUTHIY&label=Profile%20Views&color=blue&style=flat)
 
 Passionate Computer Science Engineer  
 💻 Interested in Software Development and Problem Solving  
@@ -13,21 +13,18 @@ Passionate Computer Science Engineer
 
 <p align="left">
 
-<a href="YOUR_LEETCODE_LINK">
+<a href="[YOUR_LEETCODE_LINK](https://leetcode.com/u/Jeevasruthi/)">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="YOUR_SKILLRACK_LINK">
+<a href="[YOUR_SKILLRACK_LINK](https://www.skillrack.com/faces/resume.xhtml?id=439198&key=470c2e45cf6bb2ac183474a103ed6f3b6342e469)">
 <img src="https://img.shields.io/badge/SkillRack-0077B5?style=for-the-badge&logo=skillshare&logoColor=white"/>
 </a>
 
-<a href="YOUR_HACKERRANK_LINK">
+<a href="[YOUR_HACKERRANK_LINK](https://www.hackerrank.com/profile/jvstech_in)">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="YOUR_GFG_LINK">
-<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
 
 </p>
 
@@ -71,6 +68,6 @@ Passionate Computer Science Engineer
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/JEEVASRUTHIY/JEEVASRUTHIY/output/github-contribution-grid-snake.svg"/>
 
 </p>
