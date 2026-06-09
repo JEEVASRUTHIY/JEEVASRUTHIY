@@ -63,7 +63,6 @@ Passionate Computer Science Engineer
 </p>
 
 ---
-
 ## 🐍 My Contribution Snake
 
 <p align="center">
