@@ -1,11 +1,7 @@
-# 👋 Hi, I'm YOUR NAME
+# 👋 Hi, I'm Jeevasruthi
 
-🎓 Computer Science Engineering Student  
-💻 Passionate about Coding & Software Development  
-🚀 Learning Web Development, Backend & Problem Solving  
-🌱 Building projects and improving my technical skills  
+Passionate Computer Science Engineer
 
----
 
 ## 👨‍💻 Coding Profiles
 
