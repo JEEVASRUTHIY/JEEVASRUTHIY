@@ -28,7 +28,8 @@ Passionate Computer Science Engineer
 
 </p>
 
----## 💻 Languages
+---
+## 💻 Languages
 
 <p align="left">
 
