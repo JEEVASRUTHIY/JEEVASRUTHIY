@@ -7,15 +7,22 @@ jobs:
   generate:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk@v3
         with:
           github_user_name: JEEVASRUTHIY
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake.svg
 
-      - name: Upload snake
-        uses: actions/upload-artifact@v4
-        with:
-          name: snake
-          path: dist/github-contribution-grid-snake.svg
+      - name: Commit snake
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add output/github-contribution-grid-snake.svg
+          git commit -m "Add contribution snake" || exit 0
+          git push
