@@ -63,10 +63,11 @@ Passionate Computer Science Engineer
 </p>
 
 ---
+
 ## 🐍 My Contribution Snake
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/JEEVASRUTHIY/JEEVASRUTHIY/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/JEEVASRUTHIY/JEEVASRUTHIY/main/output/github-contribution-grid-snake.svg"/>
 
 </p>
