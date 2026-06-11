@@ -26,8 +26,6 @@ Computer Science Engineer
 </a>
 
 
-</p>
-
 ## 💻 Languages
 
 <p align="left">
@@ -40,19 +38,22 @@ Computer Science Engineer
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" style="margin:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="margin:10px;"/>
 
-</p>
-
----
-
-## 🧰 Tools & Technologies
-
-<p align="left">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" style="margin:10px;" title="React"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" style="margin:10px;" title="Spring Boot"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" style="margin:10px;" title="MySQL"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" style="margin:10px;" title="PostgreSQL"/>
+
+<img src="https://cdn.simpleicons.org/sql" width="40" style="margin:10px;" title="SQL"/>
+
+</p>
+
+
+## 🧰 Tools & Technologies
+
+<p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin:10px;" title="Git"/>
 
@@ -68,7 +69,18 @@ Computer Science Engineer
 
 <img src="https://cdn.simpleicons.org/cursor" width="40" style="margin:10px;" title="Cursor"/>
 
+<img src="https://cdn.simpleicons.org/postman" width="40" style="margin:10px;" title="Postman"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" style="margin:10px;" title="Docker"/>
+
+<img src="https://cdn.simpleicons.org/vercel" width="40" style="margin:10px;" title="Vercel"/>
+
+<img src="https://cdn.simpleicons.org/netlify" width="40" style="margin:10px;" title="Netlify"/>
+
 </p>
+
+
+
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/JEEVASRUTHIY/JEEVASRUTHIY/main/output/github-contribution-grid-snake.svg"/>
