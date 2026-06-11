@@ -46,7 +46,7 @@ Computer Science Engineer
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" style="margin:10px;" title="PostgreSQL"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" width="40" style="margin:10px;" title="SQL"/>
+
 
 </p>
 
