@@ -3,11 +3,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=JEEVASRUTHIY&label=Profile%20Views&color=blue&style=flat)
 
 
-Passionate Computer Science Engineer  
-💻 Interested in Software Development and Problem Solving  
-🚀 Exploring Web Development, Backend Technologies & DSA  
-🌱 Enhancing my programming and technical skills  
+Computer Science Engineer  
 
+🚀 Passionate about Technology & Building Solutions
+🌱 Learning and growing every day
 ---
 
 ## 👨‍💻 My Coding Profiles
