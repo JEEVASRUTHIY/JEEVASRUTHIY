@@ -69,12 +69,9 @@ Computer Science Engineer
 
 <img src="https://cdn.simpleicons.org/cursor" width="40" style="margin:10px;" title="Cursor"/>
 
-<img src="https://cdn.simpleicons.org/postman" width="40" style="margin:10px;" title="Postman"/>
+<img src="https://cdn.simpleicons.org/googlecloud" width="40" style="margin:10px;" title="Google AI Studio"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" style="margin:10px;" title="Docker"/>
-
-<img src="https://cdn.simpleicons.org/vercel" width="40" style="margin:10px;" title="Vercel"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" style="margin:10px;" title="Firebase"/>
 <img src="https://cdn.simpleicons.org/netlify" width="40" style="margin:10px;" title="Netlify"/>
 
 </p>
