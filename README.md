@@ -2,8 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JEEVASRUTHIY&label=Profile%20Views&color=blue&style=flat)
 
-
-# Computer Science Engineer  
+Computer Science Engineer  
 
 🚀 Passionate about Technology & Building Solutions
 🌱 Learning and growing every day
